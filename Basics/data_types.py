@@ -10,3 +10,4 @@
 
 # NoneType → None | قيمة تعنى لا شيء
 
+print(type(None))
