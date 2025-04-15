@@ -25,6 +25,6 @@ print(f"His name is {name}, and he is {age} years old.")
 print(20*"-")
 
 # Accessing Strings using zero-based indexing:
-lanugae = "Python"
-print(lanugae[0])
-print(lanugae[-1])
+language = "Python"
+print(language[0])
+print(language[-1])
